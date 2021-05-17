@@ -9,3 +9,5 @@ changes in master from remote-01
 
 
 rebase-commit-01
+
+local-rebase-change-01
